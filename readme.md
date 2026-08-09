@@ -191,7 +191,7 @@ Your bot is now ready to conquer the WhatsApp world! ⚔️✨
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/wwq0yf.jpgalt="TEAM-ZUBAIR-MD" width="150"/>
+  <img src="https://files.catbox.moe/wwq0yf.jpg"="TEAM-ZUBAIR-MD" width="150"/>
   <br>
   <b>🩸 TEAM-ZUBAIR-MD</b>
   <br>
